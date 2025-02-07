@@ -1,0 +1,12 @@
+
+[
+    {
+        "id": 1,
+        "name": "labrador",
+        "image":"./assets/labrador.jpg"
+    },
+    {
+        "id":2,
+        "name": "poodle"
+    }
+]
