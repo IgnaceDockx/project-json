@@ -1,0 +1,100 @@
+{
+    "droptables": [
+      {
+        "id": 1,
+        "boss_name": "Kalphite Queen",
+        "drops": [
+          {
+            "id": 1,
+            "item_name": "Kq head",
+            "quantity": 1,
+            "rarity": "1/128",
+            "price": "Not sold"
+          },
+          {
+            "id": 2,
+            "item_name": "Dragon chainbody",
+            "quantity": 1,
+            "rarity": "1/128",
+            "price": 230777
+          },
+          {
+            "id": 3,
+            "item_name": "Dragon 2h sword",
+            "quantity": 1,
+            "rarity": "1/256",
+            "price": 132651
+          },
+          {
+            "id": 4,
+            "item_name": "Dragon pickaxe",
+            "quantity": 1,
+            "rarity": "1/400",
+            "price": 783019
+          },
+          {
+            "id": 5,
+            "item_name": "Jar of sand",
+            "quantity": 1,
+            "rarity": "1/2000",
+            "price": 946669
+          },
+          {
+            "id": 6,
+            "item_name": "Kalphite princess",
+            "quantity": 1,
+            "rarity": "1/3000",
+            "price": "Not sold"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "boss_name": "Cerberus",
+        "drops": [
+          {
+            "id": 1,
+            "item_name": "Smouldering stone",
+            "quantity": 1,
+            "rarity": "1/128",
+            "price": 2554179
+          },
+          {
+            "id": 2,
+            "item_name": "Pegasian crystal",
+            "quantity": 1,
+            "rarity": "1/300",
+            "price": 444076
+          },
+          {
+            "id": 3,
+            "item_name": "Primordial crystal",
+            "quantity": 1,
+            "rarity": "1/300",
+            "price": 25477179
+          },
+          {
+            "id": 4,
+            "item_name": "Eternal crystal",
+            "quantity": 1,
+            "rarity": "1/300",
+            "price": 8006361
+          },
+          {
+            "id": 5,
+            "item_name": "Hellpuppy pet",
+            "quantity": 1,
+            "rarity": "1/512",
+            "price": "Not sold"
+          },
+          {
+            "id": 6,
+            "item_name": "Jar of souls",
+            "quantity": 1,
+            "rarity": "1/1000",
+            "price": 98990
+          }
+        ]
+      }
+    ]
+  }

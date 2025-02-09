@@ -1,12 +1,122 @@
-
 [
     {
         "id": 1,
-        "name": "labrador",
-        "image":"./assets/labrador.jpg"
+        "name": "Kalphite Queen",
+        "image": "https://oldschool.runescape.wiki/images/a/a6/Kalphite_Queen.png",
+        "rare_drop": "Dragon chainbody"
     },
     {
-        "id":2,
-        "name": "poodle"
+        "id": 2,
+        "name": "Cerberus",
+        "image": "https://oldschool.runescape.wiki/images/7/73/Cerberus.png",
+        "rare_drop": "Primordial boots"
+    },
+    {
+        "id": 3,
+        "name": "Zulrah",
+        "image": "https://oldschool.runescape.wiki/images/a/af/Zulrah_%28osrs%29.png",
+        "rare_drop": "Toxic blow pipe"
+    },
+    {
+        "id": 4,
+        "name": "Vorkath",
+        "image": "https://oldschool.runescape.wiki/images/7/76/Vorkath.png",
+        "rare_drop": "Dragonfire ward"
+    },
+    {
+        "id": 5,
+        "name": "Scorpia",
+        "image": "https://oldschool.runescape.wiki/images/a/ab/Scorpia.png",
+        "rare_drop": "Malediction ward"
+    },
+    {
+        "id": 6,
+        "name": "God Wars Dungeon: Kree'arra",
+        "image": "https://oldschool.runescape.wiki/images/7/7f/Kree%27arra.png",
+        "rare_drop": "Armadyl godsword"
+    },
+    {
+        "id": 7,
+        "name": "God Wars Dungeon: General Graardor",
+        "image": "https://oldschool.runescape.wiki/images/6/6a/General_Graardor.png",
+        "rare_drop": "Bandos Chestplate"
+    },
+    {
+        "id": 8,
+        "name": "God Wars Dungeon: Nex",
+        "image": "https://oldschool.runescape.wiki/images/5/53/Nex.png",
+        "rare_drop": "Torva platebody"
+    },
+    {
+        "id": 9,
+        "name": "Chambers of Xeric",
+        "image": "https://oldschool.runescape.wiki/images/9/99/Tekton.png",
+        "rare_drop": "Twisted Bow"
+    },
+    {
+        "id": 10,
+        "name": "The Nightmare",
+        "image": "https://oldschool.runescape.wiki/images/2/2a/The_Nightmare.png",
+        "rare_drop": "Inquisitor's Mace"
+    },
+    {
+        "id": 11,
+        "name": "Skeletal Wyverns",
+        "image": "https://oldschool.runescape.wiki/images/1/1a/Skeletal_Wyvern.png",
+        "rare_drop": "Wyvern Visage"
+    },
+    {
+        "id": 12,
+        "name": "Barrows Brothers: Dharok the Wretched",
+        "image": "https://oldschool.runescape.wiki/images/6/64/Dharok_the_Wretched.png",
+        "rare_drop": "Dharok's Greataxe"
+    },
+    {
+        "id": 13,
+        "name": "Barrows Brothers: Ahrim the Blighted",
+        "image": "https://oldschool.runescape.wiki/images/6/63/Ahrim_the_Blighted.png",
+        "rare_drop": "Ahrim's Robe Top"
+    },
+    {
+        "id": 14,
+        "name": "Saradomin (God Wars Dungeon)",
+        "image": "https://oldschool.runescape.wiki/images/thumb/Commander_Zilyana.png/250px-Commander_Zilyana.png?c5eaa",
+        "rare_drop": "Armadyl Crossbow"
+    },
+    {
+        "id": 15,
+        "name": "TzTok-Jad",
+        "image": "https://oldschool.runescape.wiki/images/7/7c/TzTok-Jad.png",
+        "rare_drop": "Firecape"
+    },
+    {
+        "id": 16,
+        "name": "Venenatis",
+        "image": "https://oldschool.runescape.wiki/images/e/e9/Venenatis.png",
+        "rare_drop": "Voidwaker blade"
+    },
+    {
+        "id": 17,
+        "name": "Thermonuclear Smoke Devil",
+        "image": "https://oldschool.runescape.wiki/images/5/53/Thermonuclear_Smoke_Devil.png",
+        "rare_drop": "Occult"
+    },
+    {
+        "id": 18,
+        "name": "Corporeal beast",
+        "image": "https://oldschool.runescape.wiki/images/thumb/Corporeal_Beast.png/270px-Corporeal_Beast.png?52ebb",
+        "rare_drop": "Elysian Spirit Shield"
+    },
+    {
+        "id": 19,
+        "name": "King Black Dragon",
+        "image": "https://oldschool.runescape.wiki/images/4/49/King_Black_Dragon.png",
+        "rare_drop": "Dragonfire shield"
+    },
+    {
+        "id": 20,
+        "name": "Chaos Elemental",
+        "image": "https://oldschool.runescape.wiki/images/5/5d/Chaos_Elemental.png",
+        "rare_drop": "Dragon Pickaxe"
     }
 ]
