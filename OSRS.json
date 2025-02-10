@@ -1,122 +1,282 @@
 [
     {
-        "id": 1,
-        "name": "Kalphite Queen",
-        "image": "https://oldschool.runescape.wiki/images/a/a6/Kalphite_Queen.png",
-        "rare_drop": "Dragon chainbody"
+      "id": 1,
+      "name": "Kalphite Queen",
+      "description": "A powerful insectoid boss in the desert. She attacks with both melee and ranged combat.",
+      "combat_level": 333,
+      "is_active": true,
+      "discovered_date": "2007-01-01",
+      "image": "https://oldschool.runescape.wiki/images/a/a6/Kalphite_Queen.png",
+      "location": "Kalphite Lair",
+      "attacks": ["Melee", "Ranged"],
+      "drop_table": {
+        "drop_table_id": 1
+      }
     },
     {
-        "id": 2,
-        "name": "Cerberus",
-        "image": "https://oldschool.runescape.wiki/images/7/73/Cerberus.png",
-        "rare_drop": "Primordial boots"
+      "id": 2,
+      "name": "Cerberus",
+      "description": "A three-headed hellhound boss guarding the entrance to the Infernal realm.",
+      "combat_level": 318,
+      "is_active": true,
+      "discovered_date": "2016-02-01",
+      "image": "https://oldschool.runescape.wiki/images/7/73/Cerberus.png",
+      "location": "Infernal Realm",
+      "attacks": ["Fire breath", "Melee"],
+      "drop_table": {
+        "drop_table_id": 2
+      }
     },
     {
-        "id": 3,
-        "name": "Zulrah",
-        "image": "https://oldschool.runescape.wiki/images/a/af/Zulrah_%28osrs%29.png",
-        "rare_drop": "Toxic blow pipe"
+      "id": 3,
+      "name": "Zulrah",
+      "description": "A toxic, snake-like creature that changes forms during battle.",
+      "combat_level": 725,
+      "is_active": true,
+      "discovered_date": "2015-03-15",
+      "image": "https://oldschool.runescape.wiki/images/a/af/Zulrah_%28osrs%29.png",
+      "location": "Zul-Andra",
+      "attacks": ["Poison", "Magic", "Ranged"],
+      "drop_table": {
+        "drop_table_id": 3
+      }
     },
     {
-        "id": 4,
-        "name": "Vorkath",
-        "image": "https://oldschool.runescape.wiki/images/7/76/Vorkath.png",
-        "rare_drop": "Dragonfire ward"
+      "id": 4,
+      "name": "Vorkath",
+      "description": "A dangerous blue dragon that exudes deadly poison and fire attacks.",
+      "combat_level": 732,
+      "is_active": true,
+      "discovered_date": "2018-07-01",
+      "image": "https://oldschool.runescape.wiki/images/7/76/Vorkath.png",
+      "location": "Vorkath's Lair",
+      "attacks": ["Poison", "Fire", "Melee"],
+      "drop_table": {
+        "drop_table_id": 4
+      }
     },
     {
-        "id": 5,
-        "name": "Scorpia",
-        "image": "https://oldschool.runescape.wiki/images/a/ab/Scorpia.png",
-        "rare_drop": "Malediction ward"
+      "id": 5,
+      "name": "Scorpia",
+      "description": "A giant, venomous scorpion with powerful magic attacks.",
+      "combat_level": 325,
+      "is_active": false,
+      "discovered_date": "2017-05-10",
+      "image": "https://oldschool.runescape.wiki/images/a/ab/Scorpia.png",
+      "location": "Wilderness",
+      "attacks": ["Venom", "Magic"],
+      "drop_table": {
+        "drop_table_id": 5
+      }
     },
     {
-        "id": 6,
-        "name": "God Wars Dungeon: Kree'arra",
-        "image": "https://oldschool.runescape.wiki/images/7/7f/Kree%27arra.png",
-        "rare_drop": "Armadyl godsword"
+      "id": 6,
+      "name": "God Wars Dungeon: Kree'arra",
+      "description": "The avian boss of the Armadyl faction.",
+      "combat_level": 580,
+      "is_active": true,
+      "discovered_date": "2010-12-15",
+      "image": "https://oldschool.runescape.wiki/images/7/7f/Kree%27arra.png",
+      "location": "God Wars Dungeon",
+      "attacks": ["Ranged", "Melee"],
+      "drop_table": {
+        "drop_table_id": 6
+      }
     },
     {
-        "id": 7,
-        "name": "God Wars Dungeon: General Graardor",
-        "image": "https://oldschool.runescape.wiki/images/6/6a/General_Graardor.png",
-        "rare_drop": "Bandos Chestplate"
+      "id": 7,
+      "name": "God Wars Dungeon: General Graardor",
+      "description": "The powerful Bandosian warlord in the God Wars Dungeon.",
+      "combat_level": 624,
+      "is_active": true,
+      "discovered_date": "2010-12-15",
+      "image": "https://oldschool.runescape.wiki/images/6/6a/General_Graardor.png",
+      "location": "God Wars Dungeon",
+      "attacks": ["Melee", "Summon"],
+      "drop_table": {
+        "drop_table_id": 7
+      }
     },
     {
-        "id": 8,
-        "name": "God Wars Dungeon: Nex",
-        "image": "https://oldschool.runescape.wiki/images/5/53/Nex.png",
-        "rare_drop": "Torva platebody"
+      "id": 8,
+      "name": "God Wars Dungeon: Nex",
+      "description": "A powerful and ancient being of ice and blood.",
+      "combat_level": 1080,
+      "is_active": true,
+      "discovered_date": "2011-11-12",
+      "image": "https://oldschool.runescape.wiki/images/5/53/Nex.png",
+      "location": "God Wars Dungeon",
+      "attacks": ["Ice", "Blood magic"],
+      "drop_table": {
+        "drop_table_id": 8
+      }
     },
     {
-        "id": 9,
-        "name": "Chambers of Xeric",
-        "image": "https://oldschool.runescape.wiki/images/9/99/Tekton.png",
-        "rare_drop": "Twisted Bow"
+      "id": 9,
+      "name": "Chambers of Xeric",
+      "description": "A dangerous raid with various bosses, including Tekton.",
+      "combat_level": 650,
+      "is_active": true,
+      "discovered_date": "2017-08-15",
+      "image": "https://oldschool.runescape.wiki/images/9/99/Tekton.png",
+      "location": "Chambers of Xeric",
+      "attacks": ["Various", "Boss mechanics"],
+      "drop_table": {
+        "drop_table_id": 9
+      }
     },
     {
-        "id": 10,
-        "name": "The Nightmare",
-        "image": "https://oldschool.runescape.wiki/images/2/2a/The_Nightmare.png",
-        "rare_drop": "Inquisitor's Mace"
+      "id": 10,
+      "name": "The Nightmare",
+      "description": "A terrifying creature that haunts the minds of those who sleep.",
+      "combat_level": 800,
+      "is_active": true,
+      "discovered_date": "2018-06-01",
+      "image": "https://oldschool.runescape.wiki/images/2/2a/The_Nightmare.png",
+      "location": "The Nightmare's Lair",
+      "attacks": ["Nightmare", "Magic", "Melee"],
+      "drop_table": {
+        "drop_table_id": 10
+      }
     },
     {
-        "id": 11,
-        "name": "Skeletal Wyverns",
-        "image": "https://oldschool.runescape.wiki/images/1/1a/Skeletal_Wyvern.png",
-        "rare_drop": "Wyvern Visage"
+      "id": 11,
+      "name": "Skeletal Wyverns",
+      "description": "Undead wyverns found in the Asgarnian Ice Dungeon.",
+      "combat_level": 303,
+      "is_active": true,
+      "discovered_date": "2016-01-01",
+      "image": "https://oldschool.runescape.wiki/images/1/1a/Skeletal_Wyvern.png",
+      "location": "Asgarnian Ice Dungeon",
+      "attacks": ["Ranged", "Melee"],
+      "drop_table": {
+        "drop_table_id": 11
+      }
     },
     {
-        "id": 12,
-        "name": "Barrows Brothers: Dharok the Wretched",
-        "image": "https://oldschool.runescape.wiki/images/6/64/Dharok_the_Wretched.png",
-        "rare_drop": "Dharok's Greataxe"
+      "id": 12,
+      "name": "Barrows Brothers: Dharok the Wretched",
+      "description": "One of the Barrows Brothers, known for his devastating melee attacks.",
+      "combat_level": 115,
+      "is_active": true,
+      "discovered_date": "2007-06-10",
+      "image": "https://oldschool.runescape.wiki/images/6/64/Dharok_the_Wretched.png",
+      "location": "Barrows",
+      "attacks": ["Melee"],
+      "drop_table": {
+        "drop_table_id": 12
+      }
     },
     {
-        "id": 13,
-        "name": "Barrows Brothers: Ahrim the Blighted",
-        "image": "https://oldschool.runescape.wiki/images/6/63/Ahrim_the_Blighted.png",
-        "rare_drop": "Ahrim's Robe Top"
+      "id": 13,
+      "name": "Barrows Brothers: Ahrim the Blighted",
+      "description": "One of the Barrows Brothers, wielding powerful magic.",
+      "combat_level": 124,
+      "is_active": true,
+      "discovered_date": "2007-06-10",
+      "image": "https://oldschool.runescape.wiki/images/6/63/Ahrim_the_Blighted.png",
+      "location": "Barrows",
+      "attacks": ["Magic"],
+      "drop_table": {
+        "drop_table_id": 13
+      }
     },
     {
-        "id": 14,
-        "name": "Saradomin (God Wars Dungeon)",
-        "image": "https://oldschool.runescape.wiki/images/thumb/Commander_Zilyana.png/250px-Commander_Zilyana.png?c5eaa",
-        "rare_drop": "Armadyl Crossbow"
+      "id": 14,
+      "name": "Saradomin (God Wars Dungeon)",
+      "description": "The Saradominist god, commander of the forces of light.",
+      "combat_level": 650,
+      "is_active": true,
+      "discovered_date": "2010-12-15",
+      "image": "https://oldschool.runescape.wiki/images/thumb/Commander_Zilyana.png/250px-Commander_Zilyana.png?c5eaa",
+      "location": "God Wars Dungeon",
+      "attacks": ["Magic", "Melee"],
+      "drop_table": {
+        "drop_table_id": 14
+      }
     },
     {
-        "id": 15,
-        "name": "TzTok-Jad",
-        "image": "https://oldschool.runescape.wiki/images/7/7c/TzTok-Jad.png",
-        "rare_drop": "Firecape"
+      "id": 15,
+      "name": "TzTok-Jad",
+      "description": "A fearsome fire demon guarding the TzHaar city.",
+      "combat_level": 702,
+      "is_active": true,
+      "discovered_date": "2007-05-20",
+      "image": "https://oldschool.runescape.wiki/images/7/7c/TzTok-Jad.png",
+      "location": "TzHaar",
+      "attacks": ["Fire", "Melee"],
+      "drop_table": {
+        "drop_table_id": 15
+      }
     },
     {
-        "id": 16,
-        "name": "Venenatis",
-        "image": "https://oldschool.runescape.wiki/images/e/e9/Venenatis.png",
-        "rare_drop": "Voidwaker blade"
+      "id": 16,
+      "name": "Venenatis",
+      "description": "A massive spider with poisonous attacks in the deep wilderness.",
+      "combat_level": 613,
+      "is_active": true,
+      "discovered_date": "2016-04-10",
+      "image": "https://oldschool.runescape.wiki/images/e/e9/Venenatis.png",
+      "location": "Wilderness",
+      "attacks": ["Poison", "Melee"],
+      "drop_table": {
+        "drop_table_id": 16
+      }
     },
     {
-        "id": 17,
-        "name": "Thermonuclear Smoke Devil",
-        "image": "https://oldschool.runescape.wiki/images/5/53/Thermonuclear_Smoke_Devil.png",
-        "rare_drop": "Occult"
+      "id": 17,
+      "name": "Thermonuclear Smoke Devil",
+      "description": "A fiery smoke devil with explosive magic abilities.",
+      "combat_level": 352,
+      "is_active": true,
+      "discovered_date": "2017-03-15",
+      "image": "https://oldschool.runescape.wiki/images/5/53/Thermonuclear_Smoke_Devil.png",
+      "location": "Smoke Dungeon",
+      "attacks": ["Explosive Magic", "Melee"],
+      "drop_table": {
+        "drop_table_id": 17
+      }
     },
     {
-        "id": 18,
-        "name": "Corporeal beast",
-        "image": "https://oldschool.runescape.wiki/images/thumb/Corporeal_Beast.png/270px-Corporeal_Beast.png?52ebb",
-        "rare_drop": "Elysian Spirit Shield"
+      "id": 18,
+      "name": "Corporeal Beast",
+      "description": "A powerful spiritual beast guarding a realm of the dead.",
+      "combat_level": 785,
+      "is_active": true,
+      "discovered_date": "2009-03-01",
+      "image": "https://oldschool.runescape.wiki/images/thumb/Corporeal_Beast.png/250px-Corporeal_Beast.png",
+      "location": "Corporeal Beast Lair",
+      "attacks": ["Melee", "Spirit attacks"],
+      "drop_table": {
+        "drop_table_id": 18
+      }
     },
     {
         "id": 19,
         "name": "King Black Dragon",
+        "description": "A massive black dragon found deep in the wilderness.",
+        "combat_level": 276,
+        "is_active": true,
+        "discovered_date": "2007-01-01",
         "image": "https://oldschool.runescape.wiki/images/4/49/King_Black_Dragon.png",
-        "rare_drop": "Dragonfire shield"
-    },
-    {
+        "location": "Wilderness",
+        "attacks": ["Fire", "Melee"],
+        "drop_table": {
+          "drop_table_id": 19
+        }
+      },
+      {
         "id": 20,
         "name": "Chaos Elemental",
+        "description": "A chaotic and unpredictable elemental boss in the wilderness.",
+        "combat_level": 305,
+        "is_active": true,
+        "discovered_date": "2008-10-01",
         "image": "https://oldschool.runescape.wiki/images/5/5d/Chaos_Elemental.png",
-        "rare_drop": "Dragon Pickaxe"
-    }
-]
+        "location": "Wilderness",
+        "attacks": ["Chaos Magic", "Melee"],
+        "drop_table": {
+          "drop_table_id": 20
+        }
+      }
+    ]
